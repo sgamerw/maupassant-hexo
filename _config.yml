@@ -33,6 +33,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
+  - title: 萤火虫
+    url: http://yinghuochong.github.io
   - title: Panxw's Blog
     url: http://www.panxw.com
   - title: zrong's blog
